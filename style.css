@@ -214,3 +214,7 @@ form {
 /* floats */
 .left {float: left;}
 .right {float: right;}
+
+#css{
+	Color: pink;
+}
